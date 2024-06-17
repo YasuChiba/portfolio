@@ -72,27 +72,26 @@
 ### Megarover-ros2
 自律移動ロボットの実装。車体にメガローバー V3.0を利用し、電源系やLidarとPCの接続基盤などは自前で実装。
 
-https://github.com/YasuChiba/megarover-ros2
+- [リポジトリ](https://github.com/YasuChiba/megarover-ros2)
 
 ### ROS2-Android
 Android端末上でROS2をネイティブ実行させるために、[ros2-java](https://github.com/ros2-java/ros2_java)のビルド周りを整理。
 また、その一環でROS2のビルドシステムであるcolconのプラグイン（colcon-ros-gradle）に対してプルリク作成&マージ済み。
-- https://github.com/YasuChiba/ros2-android-build
-- https://github.com/YasuChiba/ros2-android-test-app
-- https://github.com/YasuChiba/colcon-ros-gradle
-- https://medium.com/@yasuhirachiba/how-to-use-ros2-on-android-natively-43f9e4595621
-
+- [ビルドツール](https://github.com/YasuChiba/ros2-android-build)
+- [サンプルアプリ](https://github.com/YasuChiba/ros2-android-test-app)
+- [colcon-ros-gradle](https://github.com/YasuChiba/colcon-ros-gradle)
+- [ROS2-On-Androidの解説記事](https://medium.com/@yasuhirachiba/how-to-use-ros2-on-android-natively-43f9e4595621)
 
 ### Self-balancing robot  
 ２輪の自立ロボットを車体から自作。ESP-32にIMU等を接続し、モーター類はAlliexpressで購入。  
 - links
-    - リポジトリ: https://github.com/YasuChiba/Self-balancing-robot
-    - 動画: https://photos.app.goo.gl/ZCzcyj6V4Hjbia5AA
+    - [リポジトリ](https://github.com/YasuChiba/Self-balancing-robot)
+    - [動画](https://photos.app.goo.gl/ZCzcyj6V4Hjbia5AA)
 
 ### 時間割アプリ  
 ICUの学生向け時間割管理アプリ。  
 リリースから４年程は毎年1500人程度のアクティブユーザーが存在。  
 初版はAndroid向けに実装。その後iOS向けに実装。  
 - links
-    - https://www.facebook.com/timetableforicu/?locale=ja_JP
-    - http://weeklygiants.co/?p=8872
+    - [facebook](https://www.facebook.com/timetableforicu)
+    - [記事](http://weeklygiants.co/?p=8872)
