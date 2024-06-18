@@ -36,6 +36,7 @@
         - Core MLを利用した画像分析アプリ
     - Android
         - [時間割アプリ](#時間割アプリ)
+        - [ROS2-Mobile-Android](#ros2-mobile-android)
     - Flutter
         - 音響分析アプリ
         - SNS開発
@@ -73,6 +74,12 @@
 自律移動ロボットの実装。車体にメガローバー V3.0を利用し、電源系やLidarとPCの接続基盤などは自前で実装。
 
 - [リポジトリ](https://github.com/YasuChiba/megarover-ros2)
+
+
+### ROS2-Mobile-Android  
+Android端末でROSトピックの可視化を行う[ROS-Mobile-Android](https://github.com/ROS-Mobile/ROS-Mobile-Android)をROS2にポート。  
+
+- [リポジトリ](https://github.com/YasuChiba/ROS2-Mobile-Android)
 
 ### ROS2-Android
 Android端末上でROS2をネイティブ実行させるために、[ros2-java](https://github.com/ros2-java/ros2_java)のビルド周りを整理。
